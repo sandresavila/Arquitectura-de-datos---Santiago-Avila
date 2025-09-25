@@ -1,4 +1,6 @@
 # Arquitectura-de-datos---Santiago-Avila
+NOTA: La base de datos y el archivo de Power BI pesan mas de 1GB, por ende no me deja subirlo a github, comparto el enlace de la carpetra en GoogleDrive. 
+- Descargar archivo Power BI y base de datos: ( # https://drive.google.com/drive/folders/13GB1ge4clwGaWVklKP-2d6TiNLshD88f?usp=sharing    
 Actividad en clase - Casos positivos de COVID-19 en Colombia.
 
 A continuación, se describen los pasos que se llevaron a cabo en Power BI para preparar, limpiar y visualizar la información contenida en el conjunto de datos proporcionados por el instituto de salud. 
